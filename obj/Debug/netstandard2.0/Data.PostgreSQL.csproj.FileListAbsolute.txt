@@ -1,9 +1,0 @@
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\bin\Debug\netstandard2.0\Data.PostgreSQL.deps.json
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\bin\Debug\netstandard2.0\Data.PostgreSQL.dll
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\bin\Debug\netstandard2.0\Data.PostgreSQL.pdb
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\obj\Debug\netstandard2.0\Data.PostgreSQL.csprojAssemblyReference.cache
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\obj\Debug\netstandard2.0\Data.PostgreSQL.AssemblyInfoInputs.cache
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\obj\Debug\netstandard2.0\Data.PostgreSQL.AssemblyInfo.cs
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\obj\Debug\netstandard2.0\Data.PostgreSQL.csproj.CoreCompileInputs.cache
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\obj\Debug\netstandard2.0\Data.PostgreSQL.dll
-D:\Clients\andculture\AndcultureCode\AndcultureCode.CSharp.Data.PostgreSQL\obj\Debug\netstandard2.0\Data.PostgreSQL.pdb
