@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Clients\\andculture\\AndcultureCode\\AndcultureCode.CSharp.Data.PostgreSQL\\Data.PostgreSQL.csproj": {}
+  },
+  "projects": {
+    "D:\\Clients\\andculture\\AndcultureCode\\AndcultureCode.CSharp.Data.PostgreSQL\\Data.PostgreSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Clients\\andculture\\AndcultureCode\\AndcultureCode.CSharp.Data.PostgreSQL\\Data.PostgreSQL.csproj",
+        "projectName": "Data.PostgreSQL",
+        "projectPath": "D:\\Clients\\andculture\\AndcultureCode\\AndcultureCode.CSharp.Data.PostgreSQL\\Data.PostgreSQL.csproj",
+        "packagesPath": "C:\\Users\\djust\\.nuget\\packages\\",
+        "outputPath": "D:\\Clients\\andculture\\AndcultureCode\\AndcultureCode.CSharp.Data.PostgreSQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\djust\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AndcultureCode.CSharp.Core": {
+              "target": "Package",
+              "version": "[0.7.0, )"
+            },
+            "AndcultureCode.CSharp.Extensions": {
+              "target": "Package",
+              "version": "[0.5.0, )"
+            },
+            "EFCore.BulkExtensions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
