@@ -1,5 +1,7 @@
 # AndcultureCode.CSharp.Data.PostgreSQL
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+![build status](https://github.com/AndcultureCode/AndcultureCode.CSharp.Data.PostgreSQL/actions/workflows/build.yaml/badge.svg)
+[![codecov](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.Data.PostgreSQL/branch/main/graph/badge.svg)](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.Data.PostgreSQL)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Infrastructure layer's PostgreSQL specific package.
